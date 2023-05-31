@@ -1,2 +1,1 @@
-# PrepCurse-Henrry
-Este es un repositorio de prueba
+Rey es una prueba clonando
